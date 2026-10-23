@@ -17,7 +17,7 @@
 🎯 Goal: help small businesses get online and simplify their routines<br>
 📫 Let's talk: <a href="https://vitorsdev.vercel.app">my portfolio</a>
 </p>
-###
+
 
 <h2 data-importer="text" align="left">I code with</h2>
 
