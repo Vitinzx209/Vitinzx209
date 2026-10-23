@@ -10,8 +10,13 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2026<br>📚 I'm currently learning HTML, CSS and JavaScript in depth<br>🎯 Goals: simplify businesses with websites and systems that actually work<br>🎲 Fun fact: centering a div still gives me trouble 😅</p>
-
+<p data-importer="text" align="left"><p>
+✨ Full-stack developer in the making, building websites and systems that actually work<br>
+🛠️ Working with HTML, CSS, JavaScript and Python<br>
+🚀 Recent project: WIFI HUD, a Wi-Fi diagnostic tool for Windows<br>
+🎯 Goal: help small businesses get online and simplify their routines<br>
+📫 Let's talk: <a href="https://vitorsdev.vercel.app">my portfolio</a>
+</p>
 ###
 
 <h2 data-importer="text" align="left">I code with</h2>
